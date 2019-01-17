@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">Baking_App</string>
+
+    <!-- Error Messages -->
+    <string name="error_message">An error has occurred. Please try again.</string>
+    <string name="error_internet_conn">There is no internet connection available. Please try again.</string>
+    <string name="play_trailer">Play trailer</string>
+    <string name="sample_recipe_title">Marmorkuchen</string>
+    <string name="recipe_detail_ingredient_label">Ingredients</string>
+    <string name="recipe_detail_steps_label">Steps</string>
+
+    <string name="BUNDLE_KEY_RECIPE_OBJ">RecipeObject</string>
+    <string name="BUNDLE_KEY_CLICKED_STEP">ClickedStep</string>
+    <string name="BUNDLE_KEY_STEP_OBJ">StepObject</string>
+
+    <string name="BAKING_APP_PREFS_FILE">BakingAppPrefs</string>
+    <string name="PREFS_KEY_WIDGET_OBJ">WidgetObject</string>
+
+    <string name="JSON_KEY_NAME">name</string>
+    <string name="JSON_KEY_NAME_FALLBACK">recipe with no name</string>
+    <string name="JSON_KEY_INGREDIENTS">ingredients</string>
+    <string name="JSON_KEY_ID">id</string>
+    <string name="JSON_KEY_IG_QUANTITY">quantity</string>
+    <string name="JSON_KEY_IG_MEASURE">measure</string>
+    <string name="JSON_KEY_IG_INGREDIENT">ingredient</string>
+    <string name="JSON_KEY_STEPS">steps</string>
+    <string name="JSON_KEY_STEP_SHORTDESC">shortDescription</string>
+    <string name="JSON_KEY_STEP_ID">id</string>
+    <string name="JSON_KEY_STEP_DESC">description</string>
+    <string name="JSON_KEY_STEP_VIDEO_URL">videoURL</string>
+    <string name="JSON_KEY_STEP_THUMB_URL">thumbnailURL</string>
+
+    <string name="PAGER_TITLE">Step %d</string>
+    <string name="PLAYER_KEY_POSITION">PlayerPosition</string>
+    <string name="PLAYER_KEY_READY">PlayerReady</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="appwidget_text">Baking App Widget</string>
+    <string name="add_widget">Add widget</string>
+
+</resources>

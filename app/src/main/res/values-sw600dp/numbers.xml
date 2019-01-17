@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- number of columns for recipe cards -->
+    <integer name="spanCount">3</integer>
+    <!-- are we in twopane mode or not -->
+    <bool name="twoPaneMode">true</bool>
+</resources>
